@@ -171,13 +171,13 @@ main {
 .container1 {
     padding-top: 7%;
     position: relative;
-    width: 100%;
+    width: 80%;
     font-family: verdana;
 
 }
 .container2 {
     position: relative;
-    width: 100%;
+    width: 80%;
     padding-bottom: 7%;
     font-family: verdana;
 
@@ -243,17 +243,6 @@ main {
     font-family: verdana;
 }
 
-.row2 {
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-family: verdana;
-}
-
-.margeritt {
-    border-radius: 20px;
-    width: 70%;
-}
-
 .column h2 {
     color:#EBBB00;
     text-transform: uppercase;
@@ -283,6 +272,7 @@ main {
     color: #EBBB00;
     text-decoration: none;
 }
+
 
 .row1:after {
   content: ""; /* Skal det legges til noe her? */
